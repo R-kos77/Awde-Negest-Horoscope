@@ -42,9 +42,8 @@ Sign Selection Screen:
 Zodiac Sign Screen:  
 ![Zodiac Sign Details](screenshots/sign_details.png)
 
-
 ## Releases
-Prebuilt Android App Bundles (.aab) and APK files are available in the `releases` section of this repository. Users can download the latest version to install the app on their devices.
+Prebuilt Android App Bundles (.aab) and APK files are available in the `releases` section of this repository. Users can download the latest version to install the app directly on their device.
 
 ## Technology Stack
 
@@ -53,17 +52,7 @@ Prebuilt Android App Bundles (.aab) and APK files are available in the `releases
 - Material Design Components
 - Android Jetpack components where applicable
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/R-kos77/Awde-Negest-Ethiopian-Horoscope.git
-Open the project in Android Studio.
-
-Build and run the application on an emulator or a physical Android device.
-
-Alternatively, download the latest .aab or .apk release from the repository and install it directly on your device.
-
-Author: Robel Kiros
-GitHub: R-Kos77
+## Author
+Robel Kiros  
+GitHub: [R-Kos77](https://github.com/R-kos77)  
 Email: robelalbeta@gmail.com
